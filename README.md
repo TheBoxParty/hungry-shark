@@ -1,11 +1,11 @@
+ I just want to say if I do not know who the enemies are:  
+submarine,     it will kill you so watch out                                                    
+the ghost,    it is the skull and it will take 1 point if you touch it
  
 
 
 > Open this page at [https://theboxparty.github.io/hungry-shark/](https://theboxparty.github.io/hungry-shark/)
 
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
 
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **New Project**
